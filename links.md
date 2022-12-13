@@ -1,5 +1,6 @@
 
-*** Python ***
+**Python**
+----------
 
 **RU**
 https://pythonworld.ru/samouchitel-python
